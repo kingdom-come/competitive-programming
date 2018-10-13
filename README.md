@@ -10,11 +10,6 @@ This list will contain some valuable competitive programming resources.
   * [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
   * Guide to Competitive Programming
 
-### Courses
-  * [Competitive Programming Course (SuprDewd)](https://github.com/SuprDewd/T-414-AFLV)
-  * [Competitive Programming Playlist](https://www.commonlounge.com/community/862d2091c64e447cacde77d4c76a9ac3)
-  * [Algorithms Pt 1 (and Pt 2)](https://www.coursera.org/learn/algorithms-part1)
-
 ### Algorithm Collections
   * [E-maxx](https://e-maxx-eng.appspot.com/)
   * [Topcoder Tutorials](http://www.topcoder.com/community/data-science/data-science-tutorials/)
