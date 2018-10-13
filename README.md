@@ -17,21 +17,3 @@ This list will contain some valuable competitive programming resources.
 ### [Contests](https://github.com/kingdom-come/competitive-programming/blob/master/contests.md)
 * [Contest Strategy Lecture](https://github.com/bqi343/USACO/blob/master/Contests/USACO%20Links/Contest%20Strategy%20Lecture.pdf)
 
-### Lists
-  * [Awesome List (Inishan)](http://codeforces.com/blog/entry/23054)
-
-### Books
-  * [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
-  * Guide to Competitive Programming
-
-### Algorithm Collections
-  * [E-maxx](https://e-maxx-eng.appspot.com/)
-  * [Topcoder Tutorials](http://www.topcoder.com/community/data-science/data-science-tutorials/)
-  * [Coding Library (radoslav11)](https://github.com/radoslav11/Coding-Library?files=1)
-  * [TJSCT](https://activities.tjhsst.edu/sct/)
-  * [List of CF Tutorials](http://codeforces.com/blog/entry/57282)
-  * [KACTL](https://github.com/kth-competitive-programming/kactl)
-  
-### Other
-  * [USACO Topics](https://www.quora.com/What-topics-algorithms-should-be-mastered-to-pass-each-of-the-four-divisions-of-USACO)
-
