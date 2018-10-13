@@ -4,6 +4,7 @@ See [clist.by](http://clist.by/) for a very extensive list!
   * [USACO](http://www.usaco.org/)  
     * [USA IOI Selection](https://github.com/bqi343/USACO/blob/master/Contests/USACO%20Links/USA%20IOI%20Selection.md)
     * [USACO Checklist](https://github.com/bqi343/USACO/tree/master/Contests/USACO%20Links)
+    * [USACO Topics](https://github.com/bqi343/USACO/blob/master/Storage/List%20(not%20maintained).md)
   * [Codeforces](http://codeforces.com/)
   * [AtCoder](https://atcoder.jp/)
     * [Visualizer](https://kenkoooo.com/atcoder/)
