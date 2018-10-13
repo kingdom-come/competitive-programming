@@ -12,7 +12,6 @@ See [clist.by](http://clist.by/) for a very extensive list! Once you reach USACO
   * [Don Mills OJ](http://dmoj.ca/)
   * [Kattis](https://open.kattis.com/)
   * [Codechef](http://codechef.com/)
-    * Lunchtime, Cookoff
 
 ## Annual Contests 
   * [Google Code Jam](https://code.google.com/codejam/): April
