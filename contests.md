@@ -1,5 +1,5 @@
 # Contests
-See [clist.by](http://clist.by/) for a very extensive list! Once you reach USACO Gold, you should start doing as many contests as possible.
+See [clist.by](http://clist.by/) for a very extensive list!
 
   * [USACO](http://www.usaco.org/)
   * [Codeforces](http://codeforces.com/)
