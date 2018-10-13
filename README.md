@@ -4,7 +4,7 @@ This list will contain some valuable competitive programming resources.
 ## Resources
 ### Training
 * Contest Archives  
-   	* [POI](https://szkopul.edu.pl/portal/problemset_eng)
+    * [POI](https://szkopul.edu.pl/portal/problemset_eng)
     * [AtCoder](https://beta.atcoder.jp/contests/archive)
     * [Codeforces](http://codeforces.com/problemset)
     * [CSAcademy](https://csacademy.com/contest/archive/) 
@@ -15,6 +15,7 @@ This list will contain some valuable competitive programming resources.
 * [E869120 Tutorial Pt.2](https://drive.google.com/file/d/1jl8ji4jYxjfBTiereuulOECNmfQDhmIv/view)
 * [Koosaga OI Checklist](https://docs.google.com/spreadsheets/d/1-kY6uiLOo1AKSBCSjbpGRBZbIldO_3dg6oTRKIJzT-g/edit#gid=0)
 ### [Contests](https://github.com/kingdom-come/competitive-programming/blob/master/contests.md)
+* [Contest Strategy Lecture](https://github.com/bqi343/USACO/blob/master/Contests/USACO%20Links/Contest%20Strategy%20Lecture.pdf)
 
 ### Lists
   * [Awesome List (Inishan)](http://codeforces.com/blog/entry/23054)
