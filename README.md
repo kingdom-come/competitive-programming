@@ -11,8 +11,8 @@ This list will contain some valuable competitive programming resources.
 * Tags
     * [A2OJ](https://a2oj.com/)
     * [Problem Topics (Morass)](http://codeforces.com/blog/entry/55274)
-* [E869120 Tutorial (1000-2000)](http://codeforces.com/blog/entry/53341)
-* E869120 Tutorial (2000-2200)
+* [E869120 Tutorial Pt.1](http://codeforces.com/blog/entry/53341)
+* [E869120 Tutorial Pt.2](https://drive.google.com/file/d/1jl8ji4jYxjfBTiereuulOECNmfQDhmIv/view)
 * [Koosaga OI Checklist](https://docs.google.com/spreadsheets/d/1-kY6uiLOo1AKSBCSjbpGRBZbIldO_3dg6oTRKIJzT-g/edit#gid=0)
 ### Contests
 
