@@ -1,7 +1,6 @@
 # Competitive-programming
 
 This list will contain some valuable competitive programming resources.
-### Library
 ### Training
 * Contest Archives  
     * [POI](https://szkopul.edu.pl/portal/problemset_eng)
@@ -16,4 +15,6 @@ This list will contain some valuable competitive programming resources.
 * [Koosaga OI Checklist](https://docs.google.com/spreadsheets/d/1-kY6uiLOo1AKSBCSjbpGRBZbIldO_3dg6oTRKIJzT-g/edit#gid=0)
 ### [Contests](https://github.com/kingdom-come/competitive-programming/blob/master/contests.md)
 * [Contest Strategy Lecture](https://github.com/bqi343/USACO/blob/master/Contests/USACO%20Links/Contest%20Strategy%20Lecture.pdf)
+### [Library](https://github.com/bqi343/USACO/tree/master/Implementations)
+### [Strange DS and Algorithms](https://github.com/bqi343/USACO/tree/master/storage)
 ### [Miscellaneous](https://github.com/kingdom-come/competitive-programming/blob/master/misc.md)
