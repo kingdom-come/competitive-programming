@@ -16,4 +16,4 @@ This list will contain some valuable competitive programming resources.
 * [Koosaga OI Checklist](https://docs.google.com/spreadsheets/d/1-kY6uiLOo1AKSBCSjbpGRBZbIldO_3dg6oTRKIJzT-g/edit#gid=0)
 ### [Contests](https://github.com/kingdom-come/competitive-programming/blob/master/contests.md)
 * [Contest Strategy Lecture](https://github.com/bqi343/USACO/blob/master/Contests/USACO%20Links/Contest%20Strategy%20Lecture.pdf)
-
+### [Miscellaneous](https://github.com/kingdom-come/competitive-programming/blob/master/misc.md)
