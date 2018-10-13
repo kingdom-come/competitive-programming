@@ -3,14 +3,16 @@
 This list will contain some valuable competitive programming resources.
 ## Resources
 ### Improving
-   * Contest Archives  
-    * [POI](https://szkopul.edu.pl/portal/problemset_eng)
+* Contest Archives  
+   	* [POI](https://szkopul.edu.pl/portal/problemset_eng)
     * [AtCoder](https://beta.atcoder.jp/contests/archive)
     * [Codeforces](http://codeforces.com/problemset)
     * [CSAcademy](https://csacademy.com/contest/archive/) 
-   * Use the tags to learn new topics as necessary.  
+* Tags
     * [A2OJ](https://a2oj.com/)
     * [Problem Topics (Morass)](http://codeforces.com/blog/entry/55274)
+* [E869120 Tutorial (1000-2000)](http://codeforces.com/blog/entry/53341)
+* E869120 Tutorial (2000-2200)
 ### Contests
 
 ### Lists
