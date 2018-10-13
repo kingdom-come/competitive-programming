@@ -1,7 +1,7 @@
 # Competitive-programming
 
 This list will contain some valuable competitive programming resources.
-## Resources
+### Library
 ### Training
 * Contest Archives  
     * [POI](https://szkopul.edu.pl/portal/problemset_eng)
