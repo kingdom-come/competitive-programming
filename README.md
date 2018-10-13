@@ -17,5 +17,5 @@ This list will contain some valuable competitive programming resources.
 ### [Contests](https://github.com/kingdom-come/competitive-programming/blob/master/contests.md)
 * [Contest Strategy Lecture](https://github.com/bqi343/USACO/blob/master/Contests/USACO%20Links/Contest%20Strategy%20Lecture.pdf)
 ### [Library](https://github.com/bqi343/USACO/tree/master/Implementations)
-### [Strange DS and Algorithms](https://github.com/bqi343/USACO/tree/master/storage)
+### [Strange DS and Algorithms](https://github.com/bqi343/USACO/tree/master/Storage)
 ### [Miscellaneous](https://github.com/kingdom-come/competitive-programming/blob/master/misc.md)
