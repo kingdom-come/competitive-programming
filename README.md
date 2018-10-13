@@ -2,6 +2,16 @@
 
 This list will contain some valuable competitive programming resources.
 ## Resources
+### Improving
+   * Contest Archives  
+    * [POI](https://szkopul.edu.pl/portal/problemset_eng)
+    * [AtCoder](https://beta.atcoder.jp/contests/archive)
+    * [Codeforces](http://codeforces.com/problemset)
+    * [CSAcademy](https://csacademy.com/contest/archive/) 
+   * Use the tags to learn new topics as necessary.  
+    * [A2OJ](https://a2oj.com/)
+    * [Problem Topics (Morass)](http://codeforces.com/blog/entry/55274)
+### Contests
 
 ### Lists
   * [Awesome List (Inishan)](http://codeforces.com/blog/entry/23054)
@@ -20,3 +30,4 @@ This list will contain some valuable competitive programming resources.
   
 ### Other
   * [USACO Topics](https://www.quora.com/What-topics-algorithms-should-be-mastered-to-pass-each-of-the-four-divisions-of-USACO)
+
