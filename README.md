@@ -2,7 +2,7 @@
 
 This list will contain some valuable competitive programming resources.
 ## Resources
-### Improving
+### Training
 * Contest Archives  
    	* [POI](https://szkopul.edu.pl/portal/problemset_eng)
     * [AtCoder](https://beta.atcoder.jp/contests/archive)
@@ -13,6 +13,7 @@ This list will contain some valuable competitive programming resources.
     * [Problem Topics (Morass)](http://codeforces.com/blog/entry/55274)
 * [E869120 Tutorial (1000-2000)](http://codeforces.com/blog/entry/53341)
 * E869120 Tutorial (2000-2200)
+* [Koosaga OI Checklist](https://docs.google.com/spreadsheets/d/1-kY6uiLOo1AKSBCSjbpGRBZbIldO_3dg6oTRKIJzT-g/edit#gid=0)
 ### Contests
 
 ### Lists
